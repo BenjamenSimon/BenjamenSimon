@@ -5,7 +5,6 @@
 - 📫 How to reach me: 
   - www.linkedin.com/in/benjamensimon/
   - Benjamenjsimon@gmail.com
-  - BenjamenSimon.github.io
 
 <!---
 BenjamenSimon/BenjamenSimon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
